@@ -1,0 +1,6 @@
+unstructured[csv]
+unstructured[astra]
+unstructured[openai]
+python-dotenv
+langflow=1.0.0a50
+astrapy

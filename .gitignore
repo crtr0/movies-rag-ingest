@@ -1,0 +1,6 @@
+.env
+venv
+logs
+__pycache__
+unstructured_output
+.DS_Store
